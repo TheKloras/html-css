@@ -1,0 +1,29 @@
+p	{
+	color:  white;
+	font-size: 20px;
+	font-family: 'Open Sans', sans-serif;
+}
+article	{
+	text-align: center;
+}
+h2	{
+	color: white;
+	font-size: 2em;
+	font-family: 'Barlow', sans-serif;
+}
+a	{
+	color: hotpink;
+	text-decoration: none;
+}
+a[href="http://kitm.lt"]{
+	color: lightgray;
+}
+.catalog ul li{
+	color: pink;
+}
+.catalog ul li ul li{
+	color: green;
+}
+html	{
+	background: black;
+}
