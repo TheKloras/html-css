@@ -6,6 +6,9 @@ p	{
 }
 article	{
 	text-align: center;
+	display: inline-block;
+	width: 22%;
+	padding: 30px;
 }
 h1	{
 	color: white;
@@ -25,6 +28,15 @@ a	{
 	color: hotpink;
 	text-decoration: none;
 }
+nav ul li{
+	display: inline-block;
+	list-style: none;
+	padding: 5px;
+	background: black;
+}
+nav{
+	position: ;
+}
 a[href="http://kitm.lt"]{
 	color: lightgray;
 }
@@ -33,6 +45,13 @@ a[href="http://kitm.lt"]{
 }
 .catalog ul li ul li{
 	color: green;
+}
+.container{
+	margin-top: 50px;
+	padding: 30px;
+}
+main{
+	display: inline-block;
 }
 html	{
 	background: black url(../img/bg.jpg);
